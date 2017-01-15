@@ -9,9 +9,13 @@
 clear; % 変数のオールクリア 
  
  filename = uigetfile('*') 　%原画像の入力
+ 
  ORG=imread(filename); 　% 原画像の入力 
+ 
 	imagesc(ORG); axis image;　 % 画像の表示
+	
 xlabel('x');ylabel('y');　%x軸とy軸の表示
+
 pause; 　% 一時停止 
  
   IMG = imresize(ORG,0.5);　 % 画像の縮小 
