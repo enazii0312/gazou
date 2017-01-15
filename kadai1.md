@@ -12,7 +12,7 @@ clear; % 変数のオールクリア
  
  ORG=imread(filename); 　% 原画像の入力 
  
-	imagesc(ORG); axis image;　 % 画像の表示
+imagesc(ORG); axis image;　 % 画像の表示
 	
 xlabel('x');ylabel('y');　%x軸とy軸の表示
 
