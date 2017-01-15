@@ -73,7 +73,7 @@ pause;
 
 ２．	実行結果
 
- ![原画像](https://github.com/enazii0312/image/blob/master/753.jpg)
+ ![原画像](https://github.com/enazii0312/image/blob/master/753.JPG)
  
 図１　原画像(1280×1280)
 
