@@ -73,15 +73,15 @@ pause;
 
 ２．	実行結果
 
+ ![原画像](https://github.com/enazii0312/image/blob/master/753.jpg)
+ 
+図１　原画像(1280×1280)
+
  ![原画像](https://github.com/enazii0312/image/blob/master/7535-1.jpg)
  
-図１　原画像(500×384)
+図２　原画像のグレースケール(1280×1280)
 
  ![原画像](https://github.com/enazii0312/image/blob/master/7535-2.jpg)
- 
-図２　原画像のグレースケール(500×384)
-
-
  
 図３　判別分析法を用いた図２の二値化画像
 ３．	考察
