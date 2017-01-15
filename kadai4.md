@@ -28,12 +28,12 @@ imhist(ORG); % ヒストグラムの表示
  
 図１　原画像(170×170)
 
-  ![原画像](https://github.com/enazii0312/image/blob/master/and4-1.png)
+  ![原画像](https://github.com/enazii0312/image/blob/master/kadai4-1.png)
   
 図２　原画像のグレースケール(170×170)
 
 
-  ![原画像](https://github.com/enazii0312/image/blob/master/and4-2.png)
+  ![原画像](https://github.com/enazii0312/image/blob/master/kadai4-2.png)
   
 図３　原画像の濃度ヒストグラム
 
