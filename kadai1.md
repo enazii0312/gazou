@@ -51,17 +51,22 @@ xlabel('x');ylabel('y');　% x軸とy軸の表示
 使用画像
  
 [図1　and.png(170×170)](https://github.com/enazii0312/image/blob/master/and.png)
+図1　and.png(170×170)
 
 実行結果
  
 　![図2　実行１回目(1/2サンプリング)](https://github.com/enazii0312/image/blob/master/and1-1.jpg)
+ 図2　実行１回目(1/2サンプリング)
  
 ![図3　実行2回目(1/4サンプリング)](https://github.com/enazii0312/image/blob/master/and1-2.jpg)
+図3　実行2回目(1/4サンプリング)
 
  
 ![図4　実行3回目(1/16サンプリング)](https://github.com/enazii0312/image/blob/master/and1-3.jpg)
+図4　実行3回目(1/16サンプリング)
  
 ![図5　実行4回目(1/32サンプリング)](https://github.com/enazii0312/image/blob/master/and1-4.jpg)
+図5　実行4回目(1/32サンプリング)
 
 以上の結果より元の画像がサンプリングされるとぼやけるのが確認できた。また、標本化間隔を大きくするにしたがって画像のぼやけ具合が強くなることも確認できた。
 
