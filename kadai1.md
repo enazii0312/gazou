@@ -51,7 +51,7 @@ xlabel('x');ylabel('y');　% x軸とy軸の表示
 使用画像
  
 [図1　and.png(170×170)](https://github.com/enazii0312/image/blob/master/and.png)
-図1　and.png(170×170)
+ 図1　and.png(170×170)
 
 実行結果
  
